@@ -1,2 +1,3 @@
 test ozgarish
 ozgartirish keltirildi
+test ozgarish
